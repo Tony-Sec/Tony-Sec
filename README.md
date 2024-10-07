@@ -29,7 +29,7 @@
 			
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 		-->
-</div></p>
+</div>
 
 <!--
 ## Contacto

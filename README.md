@@ -6,12 +6,13 @@
 ## Contacto
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-castillo-mengibar/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:am.castillo.men@gmail.com)
+<!--
 [![hackerone](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)]()
 [![htb](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)]()
 [![bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)]()
 [![obb](https://img.shields.io/badge/-Open%20Bug%20Bounty-%23F67909?style=for-the-badge&logo=openbugbounty&logoColor=white)]()
 [![thm](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]()
-
+--> 
 
 
 ## ⚡ Tecnologías más usadas
@@ -21,6 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
+<!--
 ### 🧩 Herramientas
 
 ![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
@@ -31,7 +33,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-
+--> 
 ## 📈 Trabajando en...
 
 

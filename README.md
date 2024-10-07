@@ -66,7 +66,7 @@
 
 ------
 
-<img src="./img/logo_capucha_sin_fondo.png" width=15% align=right />
+<img src="https://github.com/Tony-Sec/Tony-Sec/blob/main/img/logo_capucha_sin_fondo.png" width=15% align=right />
 <!--
 ✨
 ## Contacto

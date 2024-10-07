@@ -13,6 +13,9 @@
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 			
 	<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/antonio-castillo-mengibar/">
+	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			
+        
 </div>
 </p>
 

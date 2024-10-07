@@ -61,9 +61,9 @@
 	
 	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 	<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		-->
+	-->
 </div>
-</p>
+
 
 
 <img src="./img/logo_capucha_sin_fondo.png" width=15% align=right />

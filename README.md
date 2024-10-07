@@ -1,9 +1,9 @@
- <h1 align="center">Hi , I'm Tony !!  <img src="./img/Hi.gif" width="29px"></h1>
+ <h1 align="center">Hi , I'm Tony !!  <img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/Hi.gif" width="29px"></h1>
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SysAdmin;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
-<a ><img src="./img/man-horizon-night.jpg"  borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
-## <picture><img src = "./img/about_me.gif" width = 50px></picture> About me
+<a ><img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/man-horizon-night.jpg"  borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
+##  <picture><img src = "https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/about_me.gif" width = 50px></picture> About me:
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
@@ -36,15 +36,15 @@
 
 
 ------
-<img src="https://github.com/Tony-Sec/Tony-Sec/blob/main/img/logo_capucha_sin_fondo.png" width=15% align=right />
+<img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/logo_capucha_sin_fondo.png" width=15% align=right />
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 <div align="center"  class="icons-social" style="margin-left: 10px;">
-	<a style="margin-left: 10px;"  target="_blank" href="mailto:am.castillo.men@gmail.com/">
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/antonio-castillo-mengibar/">
 	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+	<a style="margin-left: 10px;"  target="_blank" href="mailto:am.castillo.men@gmail.com/">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://github.com/Tony-Sec">
 	<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	<!--

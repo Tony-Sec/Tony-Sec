@@ -1,4 +1,4 @@
-# <img src="./img/logo.png" width=10% align=right /> SysAdmin enfocado en la Cibeseguridad
+# <img src="./img/logo_sin_fondo.png" width=10% align=right /> SysAdmin enfocado en la Cibeseguridad
 
 ## Hi there 👋
 

@@ -64,6 +64,7 @@
 </div>
 
 
+------
 
 <img src="./img/logo_capucha_sin_fondo.png" width=15% align=right />
 <!--

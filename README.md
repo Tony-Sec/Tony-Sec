@@ -36,8 +36,6 @@
 </div>
 </p>
 
-
-
 ## ⚡ Tecnologías más usadas
 
 ### 🚀 Lenguajes de programación 

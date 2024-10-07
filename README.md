@@ -3,6 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SysAdmin;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 <a ><img src="./img/man-horizon-night.jpg"  borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 

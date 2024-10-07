@@ -1,4 +1,4 @@
-#  # Hola!!!  <img src="./img/Hi.gif" width="29px">
+# Hola!!!  <img src="./img/Hi.gif" width="29px">
 <a ><img src="./img/man-horizon-night.jpg"  borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)

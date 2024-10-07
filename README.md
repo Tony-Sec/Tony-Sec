@@ -1,3 +1,5 @@
+# <img src="./img/logo.png" width=10% align=right /> SysAdmin enfocado en la Cibeseguridad
+
 ## Hi there 👋
 
 <!--
@@ -17,7 +19,9 @@ Here are some ideas to get you started:
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:am.castillo.men@gmail.com)
-
+hackerone
+hackthebox
+linkedin
 ## ⚡ Tecnologías más usadas
 
 ### 🚀 Lenguajes de programación 

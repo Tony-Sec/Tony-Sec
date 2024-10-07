@@ -1,6 +1,5 @@
-# <img src="./img/logo_capucha_sin_fondo.png" width=15% align=right /> **SysAdmin** enfocado en la ==Cibeseguridad==
+# <img src="./img/logo_capucha_sin_fondo.png" width=15% align=right /> **SysAdmin** enfocado en la *Cibeseguridad*
 <a ><img src="./img/man-horizon-night.jpg"  borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
-
 
 --------
 ## Contacto

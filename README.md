@@ -7,9 +7,7 @@
 <h2>  <img src = "https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/about_me.gif" width = 65px> About me: </h2>
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 -->
-
 ---------
-
 <img src = "https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/about_me.gif" width = 65px>
 ### 🛠 Tech Stack
 

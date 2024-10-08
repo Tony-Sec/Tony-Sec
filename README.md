@@ -70,9 +70,10 @@
 
 
 <p>
-<a align= "center" href="https://github.com/Tony-Sec">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=Tony-Sec&theme=cobalt&show_icons=true&count_private=true" />
-  </a>
+<a align="left" href="https://github.com/Tony-Sec">
+ <img  alt="anii693" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tony-Sec&show_icons=true&theme=dark&locale=en&layout=compact"  /> </a>
+<a align= "right" href="https://github.com/Tony-Sec">
+<img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=Tony-Sec&theme=cobalt&show_icons=true&count_private=true" /></a>
 </p>
 
 

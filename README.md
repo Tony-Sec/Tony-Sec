@@ -39,7 +39,6 @@
 
 ------
 <img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/logo_capucha_sin_fondo.png" width=15% align=right />
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -198,6 +197,8 @@
 [![bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)]()
 [![obb](https://img.shields.io/badge/-Open%20Bug%20Bounty-%23F67909?style=for-the-badge&logo=openbugbounty&logoColor=white)]()
 [![thm](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]()
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 ✨ - 🔭 - 🌱 - 👯- 🤔 - 💬 - 📫 - 😄 - ⚡ 
 Logos:

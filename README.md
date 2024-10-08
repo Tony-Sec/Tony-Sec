@@ -1,14 +1,9 @@
  <h1 align="center">Hi , I'm Tony !!  <img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/Hi.gif" width="29px"></h1>
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SysAdmin;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/man-horizon-night.jpg"  borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
-
- 
- <picture><img src = "https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/about_me.gif" width = 65px></picture>
-  
-##  About me:
+</p> 
+<a ><img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/man-horizon-night.jpg"  borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
+<h2>  <img src = "https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/about_me.gif" width = 65px> About me: </h2>
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 

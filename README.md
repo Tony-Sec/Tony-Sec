@@ -38,6 +38,12 @@
 
 ------
 <img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/logo_capucha_sin_fondo.png" width=15% align=right />
+<p>
+<a align="left" href="https://github.com/Tony-Sec">
+ <img  alt="anii693" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tony-Sec&show_icons=true&theme=dark&locale=en&layout=compact"  /> </a>
+<a align= "right" href="https://github.com/Tony-Sec">
+<img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=Tony-Sec&theme=cobalt&show_icons=true&count_private=true" /></a>
+</p>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -69,12 +75,7 @@
 
 
 
-<p>
-<a align="left" href="https://github.com/Tony-Sec">
- <img  alt="anii693" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tony-Sec&show_icons=true&theme=dark&locale=en&layout=compact"  /> </a>
-<a align= "right" href="https://github.com/Tony-Sec">
-<img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=Tony-Sec&theme=cobalt&show_icons=true&count_private=true" /></a>
-</p>
+
 
 
 

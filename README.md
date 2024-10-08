@@ -10,28 +10,27 @@
 
 
 ---------
-## ⚡ Tecnologías más usadas
+###  🛠 Tech Stack
 
-### 🚀 Lenguajes de programación 
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-
-
-
-### 🧩 Herramientas
-
-![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-
-![burp](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
-![metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-
-### 📘 Otras...
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+-   Programming languages :
+	![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+	![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+- Herramientas :
+	![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+	![burp](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+	![metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+- Sistemas operativos:
+	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+	
+- Otras:
+	![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+	
+- Redacción:
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  
+- Colab:
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## 📈 Trabajando en...
@@ -50,6 +49,8 @@
 	<a style="margin-left: 10px;" target="_blank" href="https://github.com/Tony-Sec">
 	<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	<!--
+	<a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+	
 	<a href="https://www.hackerrank.com/profile/kartik_kapgate" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>
 		
 	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
@@ -68,6 +69,11 @@
 
 
 
+<p>
+<a align= "center" href="https://github.com/Tony-Sec">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=Tony-Sec&theme=cobalt&show_icons=true&count_private=true" />
+  </a>
+</p>
 
 
 
@@ -199,7 +205,8 @@
 [![obb](https://img.shields.io/badge/-Open%20Bug%20Bounty-%23F67909?style=for-the-badge&logo=openbugbounty&logoColor=white)]()
 [![thm](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]()
 
-✨ - 🔭 - 🌱 - 👯- 🤔 - 💬 - 📫 - 😄 - ⚡ 
+
+✨ - 🔭 - 🌱 - 👯- 🤔 - 💬 - 📫 - 😄 - ⚡ - 📘-🧩
 Logos:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

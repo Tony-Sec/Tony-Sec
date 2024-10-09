@@ -49,12 +49,9 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tony-Sec&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<br>
-![snake gif](https://github.com/Tony-Sec/Tony-Sec/blob/output/github-contribution-grid-snake.gif)
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
-	<div align="center"  class="icons-social" style="margin-left: 10px;">
+<div align="center"  class="icons-social" style="margin-left: 10px;">
 	<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/antonio-castillo-mengibar/">
 	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	<a style="margin-left: 10px;"  target="_blank" href="mailto:am.castillo.men@gmail.com/">
@@ -78,9 +75,9 @@
 	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 	<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 	-->
-	</div>
-</p>
+</div>
 
+![snake gif](https://github.com/Tony-Sec/Tony-Sec/blob/output/github-contribution-grid-snake.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tony-Sec&label=Profile%20views&color=blue&style=for-the-badge" alt="Tony-Sec" /> </p>
 
 

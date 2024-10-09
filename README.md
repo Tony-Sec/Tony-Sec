@@ -35,6 +35,7 @@
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ------
+[![hackerone](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/zayk0110)  [![htb](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/users/2080183)
 <img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/logo_capucha_sin_fondo.png" width=15% align=right />
 <p>
 <a align="center" href="https://github.com/Tony-Sec">
@@ -208,11 +209,9 @@
 ✨
 ## Contacto
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-castillo-mengibar/)
-[![hackerone](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)]()
-[![htb](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)]()
 [![bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)]()
 [![obb](https://img.shields.io/badge/-Open%20Bug%20Bounty-%23F67909?style=for-the-badge&logo=openbugbounty&logoColor=white)]()
-[![thm](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]()
+[![thm](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/zayk0110)
 
 
 ✨ - 🔭 - 🌱 - 👯- 🤔 - 💬 - 📫 - 😄 - ⚡ - 📘-🧩

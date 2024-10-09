@@ -1,8 +1,5 @@
 #GitHub Action for generating a contribution graph with a snake eating your contributions.
-
 name: Generate Snake
-
-#Controls when the action will run. This action runs every 6 hours.
 
 on:
   schedule:
@@ -16,8 +13,7 @@ on:
   push:
     branches:
     - master
-  
-  
+    
 #The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"

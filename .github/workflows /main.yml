@@ -6,7 +6,7 @@ name: Generate Snake
 
 on:
   schedule:
-      # every 6 hours
+  # every 6 hours
     - cron: "0 */6 * * *"
     
   # allows to manually run the job at any time
@@ -21,7 +21,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     runs-on: ubuntu-latest
-	  timeout-minutes: 10
+    timeout-minutes: 10
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:

@@ -1,4 +1,4 @@
-name: Generate Snake Game
+name: Generate Snake
 
 on:
   push:

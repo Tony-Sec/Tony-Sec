@@ -35,7 +35,11 @@
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![snake](https://github.com/Tony-Sec/Tony-Sec/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/540af0a91b7d61f88c5b97dfb2f0b126cb159791/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/540af0a91b7d61f88c5b97dfb2f0b126cb159791/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/540af0a91b7d61f88c5b97dfb2f0b126cb159791/github-contribution-grid-snake.svg" />
+</picture>
 
 ------
 <img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/logo_capucha_sin_fondo.png" width=15% align=right />

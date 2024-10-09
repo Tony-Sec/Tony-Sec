@@ -35,6 +35,7 @@
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+![snake gif](https://github.com/Tony-Sec/Tony-Sec/blob/output/github-contribution-grid-snake.gif)
 
 ------
 <img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/logo_capucha_sin_fondo.png" width=15% align=right />
@@ -77,7 +78,6 @@
 	-->
 </div>
 
-![snake gif](https://github.com/Tony-Sec/Tony-Sec/blob/output/github-contribution-grid-snake.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tony-Sec&label=Profile%20views&color=blue&style=for-the-badge" alt="Tony-Sec" /> </p>
 
 

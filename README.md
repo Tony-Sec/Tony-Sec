@@ -35,7 +35,7 @@
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![snake gif](https://github.com/Tony-Sec/Tony-Sec/blob/output/github-contribution-grid-snake.gif)
+![snake](https://github.com/Tony-Sec/Tony-Sec/blob/output/github-contribution-grid-snake.svg)
 
 ------
 <img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/logo_capucha_sin_fondo.png" width=15% align=right />

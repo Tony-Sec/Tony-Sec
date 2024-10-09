@@ -15,7 +15,7 @@
 
 - Programming languages :
 
-	![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998) 	![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
+	![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998) 	![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 - Databases:
 
 	![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![Posgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -34,13 +34,6 @@
 - Colab:
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/540af0a91b7d61f88c5b97dfb2f0b126cb159791/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/540af0a91b7d61f88c5b97dfb2f0b126cb159791/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/540af0a91b7d61f88c5b97dfb2f0b126cb159791/github-contribution-grid-snake.svg" />
-</picture>
-
 ------
 <img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/logo_capucha_sin_fondo.png" width=15% align=right />
 <p>
@@ -49,11 +42,16 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/Tony-Sec">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Tony-Sec&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tony-Sec&theme=gruvbox&hide_border=true" />
-  </a>
+	<a href="https://github.com/Tony-Sec">
+		<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Tony-Sec&show_icons=true&theme=gruvbox&hide_border=true" />
+		<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tony-Sec&theme=gruvbox&hide_border=true" />
+	</a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/540af0a91b7d61f88c5b97dfb2f0b126cb159791/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/540af0a91b7d61f88c5b97dfb2f0b126cb159791/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/540af0a91b7d61f88c5b97dfb2f0b126cb159791/github-contribution-grid-snake.svg" />
+</picture>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">

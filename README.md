@@ -3,15 +3,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SysAdmin;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p> 
 <a ><img src="https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/man-horizon-night.jpg"  borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
-### Badges Hack the box:
-<img src= https://academy.hackthebox.com/storage/badges/dive-into-requests.png width = 85px />
 
 --------
 <!--
 <h2>  <img src = "https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/about_me.gif" width = 65px> About me: </h2>
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 -->
-<img src = "https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/about_me.gif" width = 65px/>
+<img src = "https://raw.githubusercontent.com/Tony-Sec/Tony-Sec/refs/heads/main/img/about_me.gif" width = 65px>
 
 ### 🛠 Tech Stack
 
@@ -214,7 +212,8 @@
 [![bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)]()
 [![obb](https://img.shields.io/badge/-Open%20Bug%20Bounty-%23F67909?style=for-the-badge&logo=openbugbounty&logoColor=white)]()
 [![thm](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/zayk0110)
-
+### Badges Hack the box:
+<img src= https://academy.hackthebox.com/storage/badges/dive-into-requests.png width = 85px>
 
 ✨ - 🔭 - 🌱 - 👯- 🤔 - 💬 - 📫 - 😄 - ⚡ - 📘-🧩
 Logos:
